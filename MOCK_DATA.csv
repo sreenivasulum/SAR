@@ -1,0 +1,101 @@
+transaction_id,sender_account_id,transaction_amount,transaction_date,geographical_location,known_customer_locations,receiver_account_id,username,first_name,last_name,full_name,transaction_type,currency,label
+800388YBN,80279F810,448809.06,14/11/23,UK,USA,8000A94C0,ghurtic0,Sayre,Rohlfing,Sayre Rohlfing,ACH,Australian dollar,Money laundering
+974129BQ5,80279F8B0,109298.1,15/11/23,UK,USA,8000A94C0,rremon1,Mano,Mapledorum,Mano Mapledorum,ACH,Australian dollar,Money laundering
+308327ID1,800E36A50,796159.07,16/11/23,UK,UK,8000A94C0,blanceley2,Roana,Gowry,Roana Gowry,ACH,Australian Dollar,Money laundering
+75024OOGB,801BF8E70,322973.31,14/11/23,Germany,Germany,8016B3750,amckyrrelly3,Archie,Biagioni,Archie Biagioni,ACH,Euro,Money laundering
+77357R31R,80074C7E0,170927.17,14/11/23,Australia,Canada,8016B3750,ggrzelczak4,Layton,Vicar,Layton Vicar,ACH,Euro,Money laundering
+17736YUWP,80107C9A0,727100.09,14/11/23,USA,Canada,8016B3750,kscoone5,Lydie,Lis,Lydie Lis,ACH,Euro,Money laundering
+38107O9Q4,800A9B180,689103.08,15/11/23,Germany,UK,8016B3750,serrichelli6,Tristam,Tregust,Tristam Tregust,ACH,Euro,Money laundering
+57662UA6Q,801271170,320883.53,16/11/23,USA,Canada,8016B3750,dnellies7,Arline,Vasyushkhin,Arline Vasyushkhin,ACH,Euro,Money laundering
+05064A5LL,801E25F20,580701.18,16/11/23,USA,USA,8016B3750,jjarmaine8,Berrie,Boutcher,Berrie Boutcher,ACH,Euro,Money laundering
+11889EPIG,800043BE0,340174.91,16/11/23,Germany,USA,8016B3750,amatteuzzi9,Noni,Athey,Noni Athey,ACH,Euro,Money laundering
+93055FG2J,8011D0180,186485.41,16/11/23,Australia,UK,8016B3750,rrotchella,Evangelin,Makiver,Evangelin Makiver,ACH,Euro,Money laundering
+577854QJS,801A0BEB0,936513.16,14/11/23,USA,Australia,800F963A0,mbreawoodb,Yvette,Disdel,Yvette Disdel,ACH,Euro,Money laundering
+51612AUGJ,8013B3270,142315.98,14/11/23,Australia,USA,800F963A0,ehuzzayc,Martie,Celier,Martie Celier,ACH,Euro,Money laundering
+91749D6UB,80049FE00,673827.51,15/11/23,Australia,USA,800F963A0,ilambshined,Aridatha,Hubbucks,Aridatha Hubbucks,ACH,Euro,Money laundering
+280005IAP,800F963A0,116314.84,16/11/23,UK,UK,800F07C90,cgibberde,Alix,Rubbert,Alix Rubbert,ACH,Euro,Money laundering
+44432LU1K,800F963A0,648817.01,16/11/23,UK,Canada,8014DDE40,acorkerf,Alix,Rubbert,Alix Rubbert,ACH,Euro,Money laundering
+90521T068,800F963A0,840439.99,17/11/23,Canada,Canada,801C56FF0,thammerichg,Alix,Rubbert,Alix Rubbert,ACH,US Dollar,Money laundering
+279988NT6,800F963A0,298258.85,17/11/23,Germany,Germany,800775EE0,cfessierh,Alix,Rubbert,Alix Rubbert,ACH,Euro,Money laundering
+910520F3Y,800F963A0,656078.71,18/11/23,UK,Canada,80143C140,sgilroyi,Alix,Rubbert,Alix Rubbert,ACH,Euro,Money laundering
+68808CZ3H,800F963A0,458447.19,18/11/23,Germany,UK,800CD0BE0,pbissillj,Alix,Rubbert,Alix Rubbert,ACH,US Dollar,Money laundering
+14369D8BU,55996BL5D,893723.64,14/12/23,Australia,USA,11756ITZJ,lsammutk,Ignatius,Tallis,Ignatius Tallis,ACH,Euro,valid
+81705XS8C,55896BL5D,370754.95,07/12/23,USA,USA,05853WBSE,dpickwelll,Ripley,Daley,Ripley Daley,ACH,US dollar,valid
+59352GUNJ,55796BL5D,391137.68,21/11/23,UK,UK,11940325Z,lbeckwithm,Leeanne,Cockshot,Leeanne Cockshot,ACH,US dollar,valid
+857164A56,185SMK16R,300410.42,05/12/23,Canada,Canada,22033OYD7,tcockramn,Hazel,Thoresbie,Hazel Thoresbie,ACH,US dollar,valid
+81190SV55,837M119HW,711447.04,03/12/23,USA,USA,33398FI0J,kdecruzeo,Darlene,Stanlack,Darlene Stanlack,ACH,Australian dollar,valid
+93387DGQR,7238N0R0B,124848.83,14/12/23,USA,Canada,501405S8X,griddellp,Vera,Vittet,Vera Vittet,ACH,US dollar,valid
+04225U99I,327D6NETF,322445.09,25/11/23,USA,Canada,16585CJD9,ljeffryesq,Gare,Beveridge,Gare Beveridge,ACH,Euro,valid
+02093TT2X,2393GWVG2,471989.46,03/12/23,Germany,USA,71941766X,mbozworthr,Daveen,Kittle,Daveen Kittle,ACH,Euro,valid
+386810VMR,335WLYITY,570869.38,13/12/23,Australia,UK,9854806G4,cyesipovs,Etienne,Riche,Etienne Riche,ACH,Australian dollar,valid
+03133PPLH,108UYSJNC,935329.5,06/12/23,Germany,UK,2615581UL,rpollicottt,Celine,Mattiello,Celine Mattiello,ACH,US dollar,valid
+15695PH1X,384PN4RHJ,487072.39,17/11/23,Germany,Canada,19878ZOJQ,tadamovitzu,Kamilah,Dran,Kamilah Dran,ACH,Australian dollar,valid
+05693A3EN,790RRSB9M,666294.74,13/11/23,USA,Australia,48243O77Y,asimonev,Lauren,Schirach,Lauren Schirach,ACH,US dollar,valid
+20838OIY5,4408N23JI,660034.58,05/12/23,USA,USA,86889XB5L,rspadazziw,Fons,Lowndsborough,Fons Lowndsborough,ACH,US dollar,valid
+304044LNV,998PG5YJY,760602.76,16/11/23,Australia,USA,04912PDZG,ifieldstonex,Ealasaid,Joselin,Ealasaid Joselin,ACH,Australian dollar,valid
+715551N30,369UPHDG0,663677.9,22/11/23,USA,Australia,17016JVJO,wklimowiczy,Jermaine,Bromhead,Jermaine Bromhead,ACH,Australian dollar,valid
+85327VGOR,821BPO0IM,35837.33,16/11/23,Australia,UK,71876BSO8,lcastellucciz,Krissy,Acres,Krissy Acres,ACH,Australian dollar,valid
+77798U2I7,0248AN81J,904815.92,03/12/23,Australia,UK,58937HLUC,crichings10,Kalina,Bartalini,Kalina Bartalini,ACH,Australian dollar,valid
+05596LBX9,9686IG8XB,366897.28,25/11/23,Canada,Australia,59619FXW2,gvivash11,Buckie,Benit,Buckie Benit,ACH,US dollar,valid
+34583VXI2,765T5ZSIV,111508.97,24/11/23,Germany,Germany,316976FLY,gkolak12,Gerome,Wrightham,Gerome Wrightham,ACH,Australian dollar,valid
+35290KCI5,757TFOP1F,706405.93,16/11/23,Germany,Canada,11947XHFF,begleofgermany13,Carin,Jinkinson,Carin Jinkinson,ACH,Australian dollar,valid
+65686U4FI,151JLM0IF,56804.53,18/11/23,USA,USA,19748DW9P,jcorrado14,Yehudit,Ponting,Yehudit Ponting,ACH,Australian dollar,valid
+41966LRD2,06547P3V9,313403.77,28/11/23,UK,Australia,68578MI3V,bmazella15,Lambert,Maskall,Lambert Maskall,ACH,Euro,valid
+89585APRS,879XV9WXP,252928.05,29/11/23,UK,Germany,80621MYKZ,akirgan16,Dacy,Jouanot,Dacy Jouanot,ACH,US dollar,valid
+44033WSZ6,369NT9Q2L,858339.53,09/12/23,UK,Australia,80294I98G,scombe17,Goddard,Cisson,Goddard Cisson,ACH,Australian dollar,valid
+461796ODQ,074UMWSWR,78315.91,16/11/23,Germany,UK,372928PRW,koneill18,Nora,Broadway,Nora Broadway,ACH,US dollar,valid
+22418CUTN,799VV5P70,77534.38,19/11/23,USA,UK,05527YSCX,rcrippill19,Cordie,Duckerin,Cordie Duckerin,ACH,US dollar,valid
+0855039IV,227DPH1SK,983811.53,01/12/23,Canada,UK,52847JVSN,dbranca1a,Darcie,Ianniello,Darcie Ianniello,ACH,Australian dollar,valid
+17008VP9Y,2697XAH1H,196868.74,23/11/23,UK,UK,05730Y5GH,pthurborn1b,Cami,Squirrel,Cami Squirrel,ACH,US dollar,valid
+64882SL6E,544ZX1979,127860.05,23/11/23,Canada,USA,25007D31U,tleadbetter1c,Bryanty,Corkish,Bryanty Corkish,ACH,Australian dollar,valid
+1589798H2,0867IRJNY,786965.18,04/12/23,Germany,USA,03661MUXC,bdiviney1d,Giraldo,Gatling,Giraldo Gatling,ACH,Australian dollar,valid
+271495I8Q,3544GCM2Z,157492.99,24/11/23,UK,USA,77617KMUQ,nben1e,Janis,Bortolussi,Janis Bortolussi,ACH,Euro,valid
+78144HOC7,994V6M77N,457279.16,14/12/23,Australia,Germany,482900QIA,bkaman1f,Leif,Surguine,Leif Surguine,ACH,US dollar,valid
+03286DMIG,044JNUYKP,565324.97,13/11/23,Canada,Australia,375388IMK,igladwish1g,Patrice,Skullet,Patrice Skullet,ACH,US dollar,valid
+21809OYZD,557UNAAW4,371193.88,22/11/23,USA,USA,83151AYRD,daudrey1h,Geri,Brockton,Geri Brockton,ACH,Australian dollar,valid
+80869VH6Q,433CKNWA7,845147.95,07/12/23,USA,Germany,71840J71N,isends1i,Cordey,Haggie,Cordey Haggie,ACH,Australian dollar,valid
+614622OOL,014WFO0RS,684832.18,13/11/23,Canada,Australia,056174YZ1,iudall1j,Cornela,Jacobbe,Cornela Jacobbe,ACH,Australian dollar,valid
+06950BGPH,936XXH05T,887469.02,14/11/23,USA,Germany,16928I9OV,hoiller1k,Marge,Rebanks,Marge Rebanks,ACH,US dollar,valid
+67680QMRR,55743MEID,667711.33,10/12/23,Australia,Australia,95797PVPW,awasiel1l,Tobye,Geffen,Tobye Geffen,ACH,Australian dollar,valid
+11307PLCU,3340AD3MH,899554.79,23/11/23,Germany,Germany,02451PP8E,malbion1m,Serena,Bardill,Serena Bardill,ACH,US dollar,valid
+37218F3GD,613P1QX7Z,24425.71,21/11/23,Canada,Canada,35140KXNI,ldadds1n,Gnni,Woolforde,Gnni Woolforde,ACH,Euro,valid
+54849ZZ9F,561LBW1UT,673627.36,26/11/23,Canada,Germany,5715784XL,ddanaher1o,Pennie,Moreno,Pennie Moreno,ACH,US dollar,valid
+628677QLU,6966JZSQ7,415063.97,07/12/23,Australia,Canada,92506478J,dlanfare1p,Clint,Garthland,Clint Garthland,ACH,Australian dollar,valid
+03069ABFY,563KZEQJG,848546.6,30/11/23,Germany,USA,23124ZV0J,rsexti1q,Obadiah,Scamp,Obadiah Scamp,ACH,Euro,valid
+52683P20Y,193816X5E,60294.49,29/11/23,Australia,UK,84704HKSE,abeetlestone1r,Estrellita,Bark,Estrellita Bark,ACH,Euro,valid
+81841HRMU,541MAY03B,496457.51,15/12/23,Canada,Germany,43810028U,ktacey1s,Ted,Altimas,Ted Altimas,ACH,Australian dollar,valid
+12874W7RA,085BPLPM2,286034.73,26/11/23,Canada,Australia,99925UA94,gschimonek1t,Hammad,Braunroth,Hammad Braunroth,ACH,Australian dollar,valid
+7654594OE,738HBT0W9,641278.7,19/11/23,Germany,USA,50951B5C4,dheugh1u,Daloris,MacSorley,Daloris MacSorley,ACH,Australian dollar,valid
+686028L0K,416VZCOX9,948471.43,25/11/23,USA,UK,770814BRF,cmaty1v,Omar,Titcom,Omar Titcom,ACH,Euro,valid
+41400QY6F,694NO7EV9,395622.79,19/11/23,UK,Germany,15336DM3F,kdowker1w,Alyss,Redier,Alyss Redier,ACH,Euro,valid
+96210GGEB,118A7MZZG,967312.85,09/12/23,UK,Canada,3131502DT,scolwill1x,Dulcie,Fullom,Dulcie Fullom,ACH,Euro,valid
+06200IDTJ,902WB05A5,73897.6,11/12/23,USA,UK,32304CV4M,asolomonides1y,Lucia,Keemer,Lucia Keemer,ACH,Australian dollar,valid
+11694ONJV,850SXZ2SV,604525.11,11/12/23,Germany,Germany,277772Q89,dhadingham1z,Eamon,Tisun,Eamon Tisun,ACH,Euro,valid
+742042GJE,293RW11V7,998053.02,18/11/23,Australia,Germany,92330BDT8,dbutchers20,Karlens,Scowen,Karlens Scowen,ACH,Australian dollar,valid
+40085374C,005HS9FG3,282907.73,19/11/23,Germany,Australia,60200NJL8,abeckett21,Pren,O' Flaherty,Pren O' Flaherty,ACH,Australian dollar,valid
+36839CJFH,302N24BGR,933318.25,13/11/23,UK,Germany,03187MPV4,gtemby22,Brietta,Cino,Brietta Cino,ACH,Australian dollar,valid
+02160L30U,724YENDDX,573376.3,15/11/23,Canada,USA,300632I3X,sfranschini23,Algernon,Apperley,Algernon Apperley,ACH,Australian dollar,valid
+326779EF8,5991YDM7T,680769.01,13/12/23,Germany,USA,07369MSIN,jshemmin24,Helaine,Jecock,Helaine Jecock,ACH,US dollar,valid
+1088999BU,241MVGVXT,205703.03,21/11/23,UK,UK,35933B5NA,glewty25,Ethelbert,D'Ruel,Ethelbert D'Ruel,ACH,Euro,valid
+484261IC8,500CCUI82,496116.95,02/12/23,USA,UK,78195NUVH,cmilne26,Misha,Lidgett,Misha Lidgett,ACH,Euro,valid
+522173FEL,245GXWQ5D,756518.39,27/11/23,Germany,Australia,8956014G2,ddinnage27,Tobye,Ridewood,Tobye Ridewood,ACH,Euro,valid
+06262OGCA,551F8GVUS,959830.95,26/11/23,USA,USA,51850YXQI,wschulkins28,Rebbecca,Tottie,Rebbecca Tottie,ACH,US dollar,valid
+10065WT1Z,882BX24V7,354060.61,03/12/23,Australia,UK,75204NWPI,lspalding29,Bertina,Raddin,Bertina Raddin,ACH,Euro,valid
+797442ZZK,685V3S47Q,841331.49,20/11/23,Australia,UK,33074CTU9,kgrote2a,Elwira,Rothera,Elwira Rothera,ACH,Euro,valid
+70573G89X,618729ILI,193356.74,15/12/23,Germany,Canada,944712F25,ccabedo2b,Bealle,Godehard.sf,Bealle Godehard.sf,ACH,Australian dollar,valid
+95070Q88P,338E5YUWV,320336.23,07/12/23,USA,Germany,71695FR4N,esieghard2c,Kalila,MacVanamy,Kalila MacVanamy,ACH,Euro,valid
+93235XPLC,269AU6864,116844.08,15/12/23,Germany,Australia,21050LG2R,eraper2d,Rozanne,Chatto,Rozanne Chatto,ACH,US dollar,valid
+36496J5R2,220BM2GUO,506230.4,02/12/23,USA,Germany,693654PRX,pheynen2e,Horatia,Guyer,Horatia Guyer,ACH,Euro,valid
+659865VKW,687KW54MN,716935.72,22/11/23,UK,Canada,05760YTQF,hwishkar2f,Saleem,Gladbeck,Saleem Gladbeck,ACH,US dollar,valid
+89410X0N2,217QVJYOS,549278.04,12/12/23,UK,USA,7662326C3,vinmett2g,Adams,Adamiak,Adams Adamiak,ACH,Euro,valid
+25872SE4F,2916W19F1,503115.07,16/11/23,USA,USA,01824URBF,ibruggen2h,Jennifer,Kentwell,Jennifer Kentwell,ACH,Euro,valid
+122808Y4G,8521I9T08,201125.71,15/11/23,Australia,Canada,01155FUES,sdanter2i,Shannon,Karczinski,Shannon Karczinski,ACH,US dollar,valid
+09052VPNC,3839PWQC6,492145.61,16/11/23,UK,UK,79166ASOE,kwathen2j,Cos,Kristof,Cos Kristof,ACH,Euro,valid
+20865UXPD,583L2J1Y5,17096.76,12/12/23,Australia,UK,43892XTAY,egiraudel2k,Florette,Caws,Florette Caws,ACH,US dollar,valid
+71373WSCL,675OI6F1Q,668909.62,04/12/23,UK,Germany,87739YMBU,kjeaneau2l,Eada,Asche,Eada Asche,ACH,US dollar,valid
+07982NGU0,3766M1NWM,64481.83,15/12/23,Australia,UK,20430EQX0,ldelaci2m,Codie,Crewdson,Codie Crewdson,ACH,US dollar,valid
+421817D91,420HI11TW,951242.9,24/11/23,Germany,Australia,93046PODW,csevior2n,Genevieve,Denizet,Genevieve Denizet,ACH,US dollar,valid
+13173T7GK,869VPRQF8,647944.99,24/11/23,Canada,UK,73290RW01,rdietmar2o,Joannes,McGunley,Joannes McGunley,ACH,Australian dollar,valid
+51908ZUA3,873FBOJ2N,263464.36,06/12/23,UK,Canada,415316NAJ,mvenmore2p,Frederick,McCardle,Frederick McCardle,ACH,Euro,valid
+84317TNGU,0319FOEHP,840780.63,13/11/23,UK,Germany,03899MLL8,pginner2q,Henrik,Mawson,Henrik Mawson,ACH,Australian dollar,valid
+45862L4XB,308Z2AZOM,837835.55,14/11/23,Australia,Germany,73474K96Q,wlongford2r,Tracee,Constant,Tracee Constant,ACH,Australian dollar,valid
